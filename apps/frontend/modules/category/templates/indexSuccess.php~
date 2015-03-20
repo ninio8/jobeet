@@ -1,0 +1,1 @@
+<?php include_partial('job/list', array('jobs' => $category->getActiveJobs())) ?>
